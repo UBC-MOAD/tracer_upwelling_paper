@@ -3,7 +3,7 @@
 This repository contains MITgcm configurations and post processing scripts and notebooks to reproduce the results presented in the paper *Tracer upwelling through a submarine canyon*, submitted to JRG-Oceans. It is divided into:
 
 * **experiments** - Data files and modified MITgcm routines for each run.
-* **postprocessing** - Notebooks and scripts used to calculate transports, upwelled tracer and water onto the shelf, extracting $\rho$ and tracer profiles, etc.
+* **postprocessing** - Notebooks and scripts used to calculate transports, upwelled tracer and water onto the shelf, extracting density and tracer profiles, etc.
 * **figures** - Notebooks used to generate the figures presented in the paper.
 * **input_files** - All binary files required to rerun the experiments (initial temperature, salinity, tracer concentration, vertical diffusivity, and bathymetry files) 
 
