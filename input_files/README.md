@@ -2,7 +2,7 @@
 
 Follow the links to download the binary files of initial temperature, salinity and tracer 
 concentration, bathymetry files, and spatially variable vertical diffusivity required 
-to run the model or download the [zip file](https://www.eoas.ubc.ca/~kramosmu/tracer_upwelling_paper/input_files/input_files.zip) to get them all (over mb) 
+to run the model or download the [zip file](https://www.eoas.ubc.ca/~kramosmu/tracer_upwelling_paper/input_files/input_files.zip) to get them all (2.4 GB when unzipped). 
 
 ### Bathymetry 
 
