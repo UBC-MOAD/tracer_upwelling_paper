@@ -1,4 +1,4 @@
-Our MITgcm configurations can be found in the repository [https://bitbucket.org/canyonsubc/tracerexperiments](https://bitbucket.org/canyonsubc/tracerexperiments).
+Our MITgcm (checkpoint66n) configurations can be found in the repository [https://bitbucket.org/canyonsubc/tracerexperiments](https://bitbucket.org/canyonsubc/tracerexperiments).
 
 Experiment names and corresponding run numbers are listed below:
 
