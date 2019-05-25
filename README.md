@@ -1,6 +1,4 @@
-# tracer_upwelling_paper - Under construction!
-
-This repository contains MITgcm configurations and post processing scripts and notebooks to reproduce the results presented in the paper *The Impact of Locally Enhanced Vertical Diffusivity on the Cross-Shelf Transport of Tracers Induced by a Submarine Canyon* Ramos-Musalem, K. and S.E. Allen, 2019: J. Phys. Oceanogr., 49, 561â€“584, https://doi.org/10.1175/JPO-D-18-0174.1. It is divided into:
+This repository contains MITgcm configurations and post processing scripts and notebooks to reproduce the results presented in the paper *The Impact of Locally Enhanced Vertical Diffusivity on the Cross-Shelf Transport of Tracers Induced by a Submarine Canyon* by Ramos-Musalem, K. and S.E. Allen (2019): J. Phys. Oceanogr., 49, 561–584, https://doi.org/10.1175/JPO-D-18-0174.1. It is divided into:
 
 * **experiments** - Data files and modified MITgcm routines for each run.
 * **postprocessing** - Notebooks and scripts used to calculate transports, upwelled tracer and water onto the shelf, extracting density and tracer profiles, etc.
